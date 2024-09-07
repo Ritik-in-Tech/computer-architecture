@@ -6,6 +6,7 @@ prompt_num2: .asciiz "Enter the second number: "
 result: .asciiz "Result: "
 newline: .asciiz "\n"
 
+
 .text
 .globl main
 
